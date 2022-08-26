@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .text-shad {
+        text-shadow: 3px 3px 3px #000000;
+        text-transform: uppercase;
+    }
+}
